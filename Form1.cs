@@ -19,7 +19,7 @@ namespace GitTestApp
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            textBox1.Text = "Master";
+            textBox1.Text = "Master" + Environment.NewLine + "NF1";
         }
     }
 }
