@@ -1,0 +1,9 @@
+c:\users\nikhila\documents\visual studio 2013\Projects\GitTestApp\bin\Debug\GitTestApp.exe.config
+c:\users\nikhila\documents\visual studio 2013\Projects\GitTestApp\bin\Debug\GitTestApp.exe
+c:\users\nikhila\documents\visual studio 2013\Projects\GitTestApp\bin\Debug\GitTestApp.pdb
+c:\users\nikhila\documents\visual studio 2013\Projects\GitTestApp\obj\Debug\GitTestApp.csprojResolveAssemblyReference.cache
+c:\users\nikhila\documents\visual studio 2013\Projects\GitTestApp\obj\Debug\GitTestApp.Form1.resources
+c:\users\nikhila\documents\visual studio 2013\Projects\GitTestApp\obj\Debug\GitTestApp.Properties.Resources.resources
+c:\users\nikhila\documents\visual studio 2013\Projects\GitTestApp\obj\Debug\GitTestApp.csproj.GenerateResource.Cache
+c:\users\nikhila\documents\visual studio 2013\Projects\GitTestApp\obj\Debug\GitTestApp.exe
+c:\users\nikhila\documents\visual studio 2013\Projects\GitTestApp\obj\Debug\GitTestApp.pdb
